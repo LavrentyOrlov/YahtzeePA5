@@ -1,8 +1,8 @@
 # Project Name: Yahtzee
 
 ## Project Info
-Date: October 2025
-Created by: Lavrenty "Larry" Orlov
+- Date: October 2025
+- Created by: Lavrenty "Larry" Orlov
 
 ## Overview
 This is a text-based version of a dice game called Yahtzee involving features like handling user input in Command Prompt,
